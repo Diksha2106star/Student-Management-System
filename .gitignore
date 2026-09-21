@@ -1,0 +1,4 @@
+bin/
+.settings/
+*.lnk
+db.properties
