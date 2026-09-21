@@ -45,12 +45,19 @@ The project also demonstrates important Core Java concepts,Collections,Java 8 fe
 
 ## Project Structure
    text
-   Student Management System 
-   |
-   |__DBConnection.java
-   |__Main.java
-   |__StudentDAO.java
-   |__StudentRunnable.java
-   |__StudentThread.java
-   |__ThreadMain.java
-   |__README.md
+ Student-Management-System
+│
+├── src
+│   └── JdbcPackage
+│       ├── DBConnection.java
+│       ├── Main.java
+│       ├── StudentDAO.java
+│       ├── StudentRunnable.java
+│       ├── StudentThread.java
+│       └── ThreadMain.java
+│
+├── README.md
+├── .gitignore
+├── .classpath
+├── .project
+└── module-info.java
